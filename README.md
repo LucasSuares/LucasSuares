@@ -1,8 +1,8 @@
 ### Olá! Eu sou o Lucas Suares
 <div>
   <a href="https://github.com/LucasSuares">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LucasSuares&show_icons=true&theme=vue-dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasSuares&layout=compact&langs_count=7&theme=vue-dark"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=LucasSuares&show_icons=true&theme=vue-dark&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasSuares&layout=compact&langs_count=7&theme=vue-dark"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Lucas-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
