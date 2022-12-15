@@ -1,4 +1,4 @@
-### Desenvolvedor Web
+### Desenvolvedor de Software
 <div>
   <a href="https://github.com/LucasSuares">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=LucasSuares&show_icons=true&theme=vue-dark&include_all_commits=true&count_private=true"/>
